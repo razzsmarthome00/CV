@@ -1,0 +1,142 @@
+body {
+    margin: 0px;
+    text-align: center;
+    font-family: verdana, sans-serif;
+    color:#40514E;
+}
+
+h1 {
+    margin: 50px auto 0 auto;
+    line-height: 2;
+    font-family: 'Sacramento', serif;
+    font-size: 70pt;
+    color: #66bfbf;
+}
+
+h2 {
+    font-family: "Edu NSW ACT Foundation";
+    margin-top: 0;
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #66bfbf;
+}
+
+h3 {
+    color: #11999E
+}
+
+a {
+    color: #11999E;
+}
+
+hr{
+    border: 5px dotted #EAF6F6;
+    border-style:none none dotted;
+    width:4%;
+    margin:50px auto;
+}
+
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.middle-container {
+  
+}
+.profile{
+    width: 600px;
+    margin:auto;
+}
+
+.bottom-container {
+    background-color: #66bfbf;
+    padding-top:40px;
+    height: 100px;
+    margin-top:80px;
+}
+.name{
+    color:#EAF6F6
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.google {
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+
+.HA {
+    width: 25%;
+    float: right;
+    padding-left: 30px;
+}
+
+.bakgrund {
+    margin-top: 70px;
+    margin-bottom: 30px;
+    width: 30%;
+    border-radius: 10%;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 30%;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 30%;
+}
+
+.contact-me{
+    width: 600px;
+    margin:auto;
+    margin-bottom: 40px;
+}
+.last-text{
+    margin-bottom:40px;
+}
+
+.btn {
+    background: #3498db;
+    background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+    background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+    background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+    background-image: -o-linear-gradient(top, #3498db, #2980b9);
+    background-image: linear-gradient(to bottom, #3498db, #2980b9);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+    background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+    text-decoration: none;
+  }
+  .hello-text{
+    width:500px;
+  }
